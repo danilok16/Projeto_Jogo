@@ -1,0 +1,63 @@
+﻿  animacao_principal.cpp
+animacao_principal.cpp(339): warning C4101: 'j': unreferenced local variable
+animacao_principal.cpp(338): warning C4101: 'matriz_alimento': unreferenced local variable
+animacao_principal.cpp(402): warning C4101: 'n2': unreferenced local variable
+animacao_principal.cpp(402): warning C4101: 'n1': unreferenced local variable
+animacao_principal.cpp(403): warning C4101: 'raio': unreferenced local variable
+  calc.cpp
+  controle_progresso.cpp
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\controle_progresso.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  jogo_princial.cpp
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\controle_progresso.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+jogo_princial.cpp(164): warning C4101: 'raio': unreferenced local variable
+jogo_princial.cpp(137): warning C4101: 'texto': unreferenced local variable
+  mini_jogo_chuva_de_letras.cpp
+mini_jogo_chuva_de_letras.cpp(740): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+mini_jogo_chuva_de_letras.cpp(741): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+mini_jogo_chuva_de_letras.cpp(754): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+mini_jogo_chuva_de_letras.cpp(766): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+mini_jogo_chuva_de_letras.cpp(775): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+mini_jogo_chuva_de_letras.cpp(861): warning C4101: 'status': unreferenced local variable
+mini_jogo_chuva_de_letras.cpp(861): warning C4101: 'j': unreferenced local variable
+mini_jogo_chuva_de_letras.cpp(861): warning C4101: 'i': unreferenced local variable
+  mini_jogo_matematica.cpp
+  mini_jogo_repita_sequencia.cpp
+  Queue.cpp
+  save_game.cpp
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\controle_progresso.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+save_game.cpp(47): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(57): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(71): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(81): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(96): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(106): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(123): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(153): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(168): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(192): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+save_game.cpp(209): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+save_game.cpp(307): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+save_game.cpp(323): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  types_queue.h
+animacao_principal.obj : error LNK2001: unresolved external symbol __imp_al_draw_filled_circle
+animacao_principal.obj : error LNK2001: unresolved external symbol __imp_al_draw_textf
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_init_image_addon
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_attach_audio_stream_to_mixer
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_init_ttf_addon
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_set_audio_stream_playmode
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_destroy_font
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_init_font_addon
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_destroy_audio_stream
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_install_audio
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_play_sample
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_drain_audio_stream
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_init_primitives_addon
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_reserve_samples
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_show_native_message_box
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_destroy_sample
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_load_sample
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_init_acodec_addon
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_get_default_mixer
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_load_audio_stream
+jogo_princial.obj : error LNK2001: unresolved external symbol __imp_al_load_font
+C:\Users\dkaus\documents\visual studio 2017\Projects\jogo\x64\Release\jogo.exe : fatal error LNK1120: 21 unresolved externals

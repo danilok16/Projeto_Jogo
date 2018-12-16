@@ -1,0 +1,36 @@
+﻿  animacao_principal.cpp
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\animacao_principal.cpp(333): warning C4101: 'j': unreferenced local variable
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\animacao_principal.cpp(332): warning C4101: 'matriz_alimento': unreferenced local variable
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\animacao_principal.cpp(395): warning C4101: 'n2': unreferenced local variable
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\animacao_principal.cpp(395): warning C4101: 'n1': unreferenced local variable
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\animacao_principal.cpp(396): warning C4101: 'raio': unreferenced local variable
+  calc.cpp
+  controle_progresso.cpp
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\controle_progresso.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  jogo_princial.cpp
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\controle_progresso.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\jogo_princial.cpp(131): warning C4101: 'raio': unreferenced local variable
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\jogo_princial.cpp(112): warning C4101: 'texto': unreferenced local variable
+  mini_jogo_chuva_de_letras.cpp
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\mini_jogo_chuva_de_letras.cpp(1029): warning C4101: 'j': unreferenced local variable
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\mini_jogo_chuva_de_letras.cpp(1029): warning C4101: 'i': unreferenced local variable
+  mini_jogo_matematica.cpp
+  mini_jogo_repita_sequencia.cpp
+  Queue.cpp
+  save_game.cpp
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\controle_progresso.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(47): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(57): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(71): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(81): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(96): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(106): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(123): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(150): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(165): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(300): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\save_game.cpp(316): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  types_queue.h
+  Generating Code...
+c:\users\dkaus\documents\visual studio 2017\projects\jogo\jogo\jogo_princial.cpp(2738): warning C4715: 'carregar_acessorio': not all control paths return a value
+  jogo.vcxproj -> C:\Users\dkaus\documents\visual studio 2017\Projects\jogo\Debug\jogo.exe
